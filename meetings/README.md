@@ -1,0 +1,1 @@
+This folder contains the notes from our meetings.

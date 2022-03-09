@@ -1,0 +1,1 @@
+This folder contains the raw data we got from the competition at https://zindi.africa/competitions/zindiweekendz-learning-urban-air-pollution-challenge
