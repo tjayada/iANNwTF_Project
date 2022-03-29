@@ -1,0 +1,1 @@
+This folder contains the images we have either used in this repository or in our final report.

@@ -1,1 +1,1 @@
-This folder contains our model for the Air Pollution Problem.
+This folder contains all the different models we created throughout our final project. They are chronologically ordered and we started out with basic ideas for each model and then improved them over time.
