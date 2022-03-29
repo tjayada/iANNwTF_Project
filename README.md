@@ -4,11 +4,11 @@
 #### This Project is part of the course "Implementing ANNs with TensorFlow" in the WS21/22 taught by Prof. Dr. Gordon Pipa and Leon Schmid, Charlotte Lange, Robin Horn, Mathis Pink, Kristina Kobrock.
 <br>
 
-<img src="https://www.euro.who.int/__data/assets/image/0006/370392/Air-pollution-INFOGRAPHICS-English-1-600.png" align="center">
+<img src="https://www.euro.who.int/__data/assets/image/0006/370392/Air-pollution-INFOGRAPHICS-English-1-600.png" width=550>
 
-<div align="center">
+
 <sub>Source: https://www.euro.who.int/__data/assets/image/0006/370392/Air-pollution-INFOGRAPHICS-English-1-600.png </sub>
-</div>
+
 
 <br>
 
@@ -20,7 +20,7 @@ It uses shuffled data without locations and without any rigorous optimization te
 <br>
 <br>
 <br>
-<img src="images/LSTM_loss_animated.gif" align="center">
+<img src="images/LSTM_loss_animated.gif" width=550>
 
 <br>
 <br>
