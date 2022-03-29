@@ -2,12 +2,21 @@
 ## by Konstantin Strömel, Tjark Darius & Johannes Claassen 
 
 #### This Project is part of the course "Implementing ANNs with TensorFlow" in the WS21/22 taught by Prof. Dr. Gordon Pipa and Leon Schmid, Charlotte Lange, Robin Horn, Mathis Pink, Kristina Kobrock.
-
-![Air Pollution - The Silent Killer](https://www.euro.who.int/__data/assets/image/0006/370392/Air-pollution-INFOGRAPHICS-English-1-600.png)
-Source: https://www.euro.who.int/__data/assets/image/0006/370392/Air-pollution-INFOGRAPHICS-English-1-600.png
+<br>
+<img src="https://www.euro.who.int/__data/assets/image/0006/370392/Air-pollution-INFOGRAPHICS-English-1-600.png" width="450" title="https://www.euro.who.int/__data/assets/image/0006/370392/Air-pollution-INFOGRAPHICS-English-1-600.png"/>
+<sub>Source: https://www.euro.who.int/__data/assets/image/0006/370392/Air-pollution-INFOGRAPHICS-English-1-600.png</sub>
+<br>
 
 ____
+<br>
+In this project we tested four different models on the provided weather and satellite data. We used a Linear Regression Model, a Multi-Layer Perceptron, a Convolutional Neural Network and a Long-Short Term Memory model. <br>
+The LSTM is our best performing model: <br>
+It uses shuffled data without locations and without any rigorous optimization techniques.
 
+<img src="images/LSTM_loss_animated.gif" width="450"/>
+<br>
+<br>
+____
 The data folder contains the raw and cleaned data for our project.
 
 The data preparation folder contains the scripts we have used for data exploration and preprocessing.
