@@ -33,8 +33,6 @@ The data preparation folder contains the scripts we have used for data explorati
 
 The meetings folder contains notes we made during our meetings.
 
-The model folder will eventually contain our model.
+The model folder contains all the approaches we took to the different models. 
 
-The report folder will eventually contain our final report. 
-The final report will be written in LaTeX using overleaf, which can be found here:
-https://sharelatex.gwdg.de/project/622a0da2fa90ce008e771e90
+The report folder contains our final report as a pdf and the corresponding .tex and .bib files.

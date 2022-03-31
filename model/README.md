@@ -1,1 +1,1 @@
-This folder contains all the different models we created throughout our final project. They are chronologically ordered and we started out with basic ideas for each model and then improved them over time.
+This folder contains all the different models we created throughout our final project. They are chronologically ordered by the numbers from 01 to 11 and we started out with basic ideas for each model and then improved them over time.

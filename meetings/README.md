@@ -1,1 +1,1 @@
-This folder contains the notes from our meetings.
+This folder contains the notes from our meetings in chronological order. 
